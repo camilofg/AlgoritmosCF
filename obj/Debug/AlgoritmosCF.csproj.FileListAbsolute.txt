@@ -1,0 +1,14 @@
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.csprojResolveAssemblyReference.cache
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\bin\AlgoritmosCF.dll.config
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\bin\AlgoritmosCF.dll
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\bin\AlgoritmosCF.pdb
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.dll
+C:\Users\Camilo\Documents\Visual Studio 2013\Projects\CF_NET\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.pdb
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\bin\AlgoritmosCF.dll
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\bin\AlgoritmosCF.pdb
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.csprojResolveAssemblyReference.cache
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.dll
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\obj\Debug\AlgoritmosCF.pdb
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\bin\HtmlAgilityPack.dll
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\bin\HtmlAgilityPack.pdb
+C:\Users\camilo.forero\Dropbox\Last Version Algoritmos\AlgoritmosCF\AlgoritmosCF\bin\HtmlAgilityPack.xml
